@@ -1,0 +1,341 @@
+[
+  {
+    "id": "conv-1789729156499-uk9k",
+    "customer_id": "cust-1789729156498-h9urp",
+    "customer_name": "Test Macaamil",
+    "customer_phone": "",
+    "customer_email": "",
+    "channel": "web",
+    "status": "in_progress",
+    "problem_category": "Google AdSense",
+    "language": "so",
+    "messages": [
+      {
+        "id": "msg-1789729156499",
+        "sender": "customer",
+        "content": "Fadlan eeg screenshot-kan aan kuu soo diray",
+        "attachment_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+        "attachment_type": "image",
+        "timestamp": "2026-09-18T10:59:16.499Z"
+      },
+      {
+        "id": "msg-1789729169978-t7ur",
+        "sender": "assistant",
+        "content": "Ku soo dhawoow XirfadoNet 👋!\n\nWaxaan ahay AI Caawiyaha rasmiga ah ee XirfadoNet. Waxaan diyaar u ahay inaan kaa caawiyo:\n• **Views-ka YouTube & Shorts Algorithm**\n• **Google AdSense & PIN Verification**\n• **Diiwaangelinta Koorsooyinka & Qiimaha**\n• **Talobixin ku saabsan xirfadaha online-ka ah**\n• **La xiriirka maamulka XirfadoNet**\n\nFadlan su'aashaada toos u qor ama sharax dhibaatada ku haysata!",
+        "timestamp": "2026-09-18T10:59:29.978Z",
+        "is_handoff_offer": false
+      },
+      {
+        "id": "msg-1789729177647-jd97",
+        "sender": "customer",
+        "content": "Kani waa qaladkayga AdSense eeg sawirkan",
+        "attachment_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+        "attachment_type": "image",
+        "timestamp": "2026-09-18T10:59:37.647Z"
+      },
+      {
+        "id": "msg-1789729181487-belr",
+        "sender": "assistant",
+        "content": "Ku soo dhawoow XirfadoNet 👋!\n\nWaxaan ahay AI Caawiyaha rasmiga ah ee XirfadoNet. Waxaan diyaar u ahay inaan kaa caawiyo:\n• **Views-ka YouTube & Shorts Algorithm**\n• **Google AdSense & PIN Verification**\n• **Diiwaangelinta Koorsooyinka & Qiimaha**\n• **Talobixin ku saabsan xirfadaha online-ka ah**\n• **La xiriirka maamulka XirfadoNet**\n\nFadlan su'aashaada toos u qor ama sharax dhibaatada ku haysata!",
+        "timestamp": "2026-09-18T10:59:41.487Z",
+        "is_handoff_offer": false
+      }
+    ],
+    "created_at": "2026-09-18T10:59:16.499Z",
+    "updated_at": "2026-09-18T10:59:41.487Z",
+    "ai_summary": "Su'aalo iyo ciladaha ku saabsan akoonka Google AdSense."
+  },
+  {
+    "id": "conv-1789661540948-fhe2",
+    "customer_id": "cust-1789661540948-4n7z3",
+    "customer_name": "Macmiil Cusub",
+    "customer_phone": "",
+    "customer_email": "",
+    "channel": "web",
+    "status": "needs_admin",
+    "language": "so",
+    "messages": [
+      {
+        "id": "msg-1789661540948",
+        "sender": "customer",
+        "content": "Sideen u iibsadaa koorsada?",
+        "timestamp": "2026-09-17T16:12:20.948Z"
+      },
+      {
+        "id": "msg-1789661546320-6z8f",
+        "sender": "assistant",
+        "content": "Ku soo dhawoow XirfadoNet 👋\n\nAad baad u mahadsan tahay! Si aan kaaga caawiyo iibsashada iyo ku soo biiridda koorsada, fadlan ii sheeg:\n\n**Ma Somalia ayaad joogtaa?** \n\nSidoo kale, ma ii sheegi kartaa koorsada aad rabto inaad iibsato?",
+        "timestamp": "2026-09-17T16:12:26.320Z",
+        "is_handoff_offer": false
+      },
+      {
+        "id": "msg-1789661549348-tnv3",
+        "sender": "customer",
+        "content": "Haa, Somalia baan joogaa, waxaan rabaa Shorts & Monetization",
+        "timestamp": "2026-09-17T16:12:29.348Z"
+      },
+      {
+        "id": "msg-1789661555350-tj01",
+        "sender": "assistant",
+        "content": "Waad ku mahadsan tahay. Lacagta waxaad si toos ah ugu diri kartaa lambarka XirfadoNet:\n\n+252615941664\n\nMarkaad lacagta dirto, fadlan WhatsApp-kan kusoo dir caddeynta lacag bixinta. Maamulka XirfadoNet ayaa xaqiijin doona kadibna kuu diyaarin doona course-ka.",
+        "timestamp": "2026-09-17T16:12:35.350Z",
+        "is_handoff_offer": false
+      },
+      {
+        "id": "msg-1789661558283-8f9i",
+        "sender": "customer",
+        "content": "Maya, dibadda Yurub baan joogaa",
+        "timestamp": "2026-09-17T16:12:38.283Z"
+      },
+      {
+        "id": "msg-1789661563439-bqcu",
+        "sender": "assistant",
+        "content": "Waad ku mahadsan tahay caddeyntaada. Koorsada **Shorts & Monetization 3 Weaks** qiimaheedu waa **$30 USD**. \n\nMaadaama aad joogto dibadda (Yurub), fadlan la xiriir maamulka XirfadoNet si laguu siiyo habka lacag bixinta ee dalkaaga. Waxaan kuu gudbin karaa maamulka XirfadoNet si ay si toos ah kaaga caawiyaan.",
+        "timestamp": "2026-09-17T16:12:43.439Z",
+        "is_handoff_offer": true,
+        "suggested_course_id": "course-shorts-monetization",
+        "suggested_course": {
+          "course_id": "course-shorts-monetization",
+          "title": "Shorts & Monetization 3 Weaks",
+          "slug": "shorts-monetization-3-weaks",
+          "description": "Koorsada ugu caansan ee barashada sida YouTube Shorts loogu abuuro views malaayiin ah loogana sameeyo dakhli degdeg ah 3 toddobaad gudahood.",
+          "price": 30,
+          "previous_price": 99,
+          "discount_percent": 70,
+          "currency": "USD",
+          "category": "YouTube & Monetization",
+          "category_id": "cat-yt",
+          "duration": "3 Weaks",
+          "image": "https://xirfadonet.com/wp-content/uploads/2026/07/45ECBB6B-5B78-4826-9D76-7E15CD42B50C.png",
+          "target_audience": "Qof kasta oo raba inuu bilaabo ama kordhiyo views-ka kanaalka YouTube Shorts oo gaaro shuruudaha monetization.",
+          "learning_outcomes": [
+            "Fahamka Shorts algorithm-ka iyo sida loo helo daawasho degdeg ah",
+            "Abuurista video hooks xooggan 3-da ilbiriqsi ee ugu horeeya",
+            "Sida looga fogaado reused content iyo copyright strikes",
+            "Helitaanka 10M views 90 maalmood gudahood ee monetization",
+            "Qalabka AI ee loo adeegsado abuurista Shorts tiro badan"
+          ],
+          "lessons": [
+            "Casharka 1: Hordhaca YouTube Shorts & Algorithm Secrets",
+            "Casharka 2: Viral Niche Selection & Content Ideas",
+            "Casharka 3: Script Writing & Fast Paced Editing",
+            "Casharka 4: Sound Selection & Trending Audio Tricks",
+            "Casharka 5: Shorts SEO, Hashtags & Posting Schedule",
+            "Casharka 6: Monetization & Brand Deals for Shorts"
+          ],
+          "requirements": [
+            "Taleefan casri ah (Smartphone) ama Kombuyuutar",
+            "Ku xirnaan internet iyo furashada akoonka YouTube"
+          ],
+          "status": "published",
+          "course_url": "https://xirfadonet.com/courses/new-course-2/",
+          "created_at": "2025-01-10T00:00:00.000Z",
+          "updated_at": "2026-02-15T00:00:00.000Z"
+        }
+      }
+    ],
+    "created_at": "2026-09-17T16:12:20.948Z",
+    "updated_at": "2026-09-17T16:12:43.439Z"
+  },
+  {
+    "id": "conv-1789661504042-sy3v",
+    "customer_id": "cust-1789661504042-l5z5p",
+    "customer_name": "Macmiil Cusub",
+    "customer_phone": "",
+    "customer_email": "",
+    "channel": "web",
+    "status": "active",
+    "language": "so",
+    "messages": [
+      {
+        "id": "msg-1789661504042",
+        "sender": "customer",
+        "content": "Sideen ku iibsadaa koorsada?",
+        "timestamp": "2026-09-17T16:11:44.042Z"
+      },
+      {
+        "id": "msg-1789661521231-udrh",
+        "sender": "assistant",
+        "content": "Ku soo dhawoow XirfadoNet 👋!\n\nWaxaan ahay Caawiyaha rasmiga ah ee XirfadoNet. Maxaan kaa caawin karaa maanta?\n- Dhibaatada Views-ka YouTube ama Shorts\n- Xallinta Google AdSense & PIN Verification\n- Diiwaangelinta Koorsooyinka & Qiimaha\n- Gelitaanka akoonka & Password-ka\n- Talobixin ku saabsan koorsada kuugu habboon\n\nFadlan su'aashaada qor ama dooro mid ka mid ah dhibaatooyinka kore!",
+        "timestamp": "2026-09-17T16:12:01.231Z",
+        "is_handoff_offer": false
+      }
+    ],
+    "created_at": "2026-09-17T16:11:44.042Z",
+    "updated_at": "2026-09-17T16:12:01.231Z"
+  },
+  {
+    "id": "conv-1789660824402-4mk4",
+    "customer_id": "cust-1789660824402-75m9r",
+    "customer_name": "Macmiil Cusub",
+    "customer_phone": "",
+    "customer_email": "",
+    "channel": "web",
+    "status": "active",
+    "language": "so",
+    "messages": [
+      {
+        "id": "msg-1789660835742-n8ha",
+        "sender": "customer",
+        "content": "Asc, sidee ayaan views ugu heli karaa YouTube Shorts?",
+        "timestamp": "2026-09-17T16:00:35.742Z"
+      },
+      {
+        "id": "msg-1789660881103-kxb5",
+        "sender": "assistant",
+        "content": "Ku soo dhawoow XirfadoNet 👋! Waxaan fahamsanahay in dhibaatada views-ka yar ay tahay wax dhib badan.\n\nAan si wadajir ah u ogaano sababta dhabta ah:\n1. **Muuqaalladaadu ma Shorts baa mise waa Videos dhaadheer?**\n2. **Sidee tahay celceliska Click-Through Rate (CTR) ee YouTube Studio?** Haddii uu ka yar yahay 4%, dhibaatadu waxay ku jirtaa Thumbnail-ka ama Cinwaanka oo aan dadka soo jiidaneyn.\n3. **Muddada daawashada (Audience Retention)**: 30-ka ilbiriqsi ee hore ma leeyihiin \"Hook\" adag oo qofka haya?\n\n**Tallaabooyinka degdegga ah:**\n- Beddel Thumbnail-ka kana dhig mid fudud oo midabbo cad leh.\n- Cinwaanka ka dhig mid toos ah oo su'aal ama xiiso xambaarsan.\n\nHaddii aad rabto inaad si xirfadaysan u barato nidaamka shorts-ka iyo monetization-ka, XirfadoNet waxay haysataa koorsada **Shorts & Monetization 3 Weaks** ($30 USD, markii hore $99). Waxaan kaloo kuu gudbin karaa maamulka haddii aad u baahato caawimaad dheeraad ah.",
+        "timestamp": "2026-09-17T16:01:21.103Z",
+        "is_handoff_offer": false,
+        "suggested_course_id": "course-shorts-monetization",
+        "suggested_course": {
+          "course_id": "course-shorts-monetization",
+          "title": "Shorts & Monetization 3 Weaks",
+          "slug": "shorts-monetization-3-weaks",
+          "description": "Koorsada ugu caansan ee barashada sida YouTube Shorts loogu abuuro views malaayiin ah loogana sameeyo dakhli degdeg ah 3 toddobaad gudahood.",
+          "price": 30,
+          "previous_price": 99,
+          "discount_percent": 70,
+          "currency": "USD",
+          "category": "YouTube & Content Creation",
+          "category_id": "cat-yt",
+          "duration": "3 Weaks",
+          "image": "https://xirfadonet.com/wp-content/uploads/2026/07/45ECBB6B-5B78-4826-9D76-7E15CD42B50C.png",
+          "target_audience": "Qof kasta oo raba inuu bilaabo ama kordhiyo views-ka kanaalka YouTube Shorts oo gaaro shuruudaha monetization.",
+          "learning_outcomes": [
+            "Fahamka Shorts algorithm-ka iyo sida loo helo daawasho degdeg ah",
+            "Abuurista video hooks xooggan 3-da ilbiriqsi ee ugu horeeya",
+            "Sida looga fogaado reused content iyo copyright strikes",
+            "Helitaanka 10M views 90 maalmood gudahood ee monetization",
+            "Qalabka AI ee loo adeegsado abuurista Shorts tiro badan"
+          ],
+          "lessons": [
+            "Casharka 1: Hordhaca YouTube Shorts & Algorithm Secrets",
+            "Casharka 2: Viral Niche Selection & Content Ideas",
+            "Casharka 3: Script Writing & Fast Paced Editing",
+            "Casharka 4: Sound Selection & Trending Audio Tricks",
+            "Casharka 5: Shorts SEO, Hasthtags & Posting Schedule",
+            "Casharka 6: Monetization & Brand Deals for Shorts"
+          ],
+          "requirements": [
+            "Taleefan casri ah (Smartphone) ama Kombuyuutar",
+            "Ku xirnaan internet iyo furashada akoonka YouTube"
+          ],
+          "status": "published",
+          "course_url": "https://xirfadonet.com/courses/new-course-2/",
+          "created_at": "2025-01-10T00:00:00.000Z",
+          "updated_at": "2026-02-15T00:00:00.000Z"
+        }
+      }
+    ],
+    "created_at": "2026-09-17T16:00:24.402Z",
+    "updated_at": "2026-09-17T16:01:21.103Z"
+  },
+  {
+    "id": "conv-1789660768397-s9dg",
+    "customer_id": "cust-1789660768397-tq7ys",
+    "customer_name": "Macaamil",
+    "customer_phone": "",
+    "customer_email": "",
+    "channel": "web",
+    "status": "active",
+    "language": "so",
+    "messages": [
+      {
+        "id": "msg-1789660768397",
+        "sender": "customer",
+        "content": "Ma aqaano sida loogu diiwaangeliyo koorsada, tallaabo tallaabo iigu sharax.",
+        "timestamp": "2026-09-17T15:59:28.397Z"
+      },
+      {
+        "id": "msg-1789660768730-0zj1",
+        "sender": "assistant",
+        "content": "Ku soo dhawoow XirfadoNet 👋! Diiwaangelinta koorsooyinka waxay u socotaa si aad u fudud:\n\n1. **Ma Somalia ayaad joogtaa mise dibadda?**\n- **Haddii aad Somalia joogto:** Waxaad ku bixin kartaa EVC Plus, ZAAD, Sahal, ama akoon bangi.\n- **Haddii aad dibadda joogto:** Waxaad ku bixin kartaa WorldRemit, Sendwave, Remitly, ama transfer.\n\n2. **Habka Diiwaangelinta:**\n- Dooro koorsada aad rabto bogga \"Courses\".\n- Riix \"Eeg Koorsada\" kadibna \"Diiwaangeli\".\n- Samee lacag-bixinta gacanta ah adigoo u diraya lambarka maamulka.\n- Rasiidka soo dir si maamulku isla markiiba kuugu furo akoonkaaga.\n\nWaxaan kuu gudbin karaa maamulka haddii aad doonayso in lagu caawiyo hadda!",
+        "timestamp": "2026-09-17T15:59:28.730Z",
+        "is_handoff_offer": false
+      }
+    ],
+    "created_at": "2026-09-17T15:59:28.397Z",
+    "updated_at": "2026-09-17T15:59:28.730Z"
+  },
+  {
+    "id": "conv-1789660052294-9xrih",
+    "customer_id": "cust-1789660052294",
+    "customer_name": "Macaamil (Visitor)",
+    "customer_phone": "",
+    "customer_email": "",
+    "channel": "web",
+    "status": "active",
+    "language": "so",
+    "messages": [
+      {
+        "id": "msg-1789660052294",
+        "sender": "customer",
+        "content": "Asc",
+        "timestamp": "2026-09-17T15:47:32.294Z"
+      },
+      {
+        "sender": "assistant",
+        "content": "Wa alaykum assalaam! Soo dhawoow. Waxaan ahay caawiyahaaga gaarka ah ee XirfadoNet.\n\nSidee ayaan maanta kuu caawin karaa? Haddii aad qabto su'aal ku saabsan YouTube, AdSense, Freelancing, ama aad rabto inaad wax ka ogaato koorsooyinkayaga, fadlan ii sheeg si aan kaaga caawiyo.",
+        "is_handoff_offer": false,
+        "id": "msg-1789660062686-zhqk",
+        "timestamp": "2026-09-17T15:47:42.686Z"
+      },
+      {
+        "sender": "customer",
+        "content": "Course ka ad bixisaan iikala sheek",
+        "id": "msg-1789660100624-755g",
+        "timestamp": "2026-09-17T15:48:20.624Z"
+      },
+      {
+        "sender": "assistant",
+        "content": "Kusoo dhawoow XirfadoNet! Sideen maanta kuugu caawin karaa? Ma dhibaatada YouTube views-ka, Google AdSense PIN, mise diiwaangelinta koorsooyinka rasmiga ah?",
+        "is_handoff_offer": false,
+        "id": "msg-1789660114137-bj9l",
+        "timestamp": "2026-09-17T15:48:34.137Z"
+      },
+      {
+        "sender": "customer",
+        "content": "Course ka ad bixisaan ii kala sheek",
+        "id": "msg-1789660219217-cn14",
+        "timestamp": "2026-09-17T15:50:19.217Z"
+      },
+      {
+        "sender": "assistant",
+        "content": "Aad baan u raali gelinayaa haddii ay fariintii hore u muuqatay mid aan si fiican kuu fahmin. XirfadoNet waxay bixisaa saddex koorso oo muhiim ah oo loogu talagalay in laguugu horumariyo xirfadahaaga dhanka dhijitaalka ah:\n\n1. **YouTube Mastery & Monetization (Af-Soomaali):**\n   - **Ujeedada:** Waxaad baranaysaa sida loo dhiso kanaal guuleysta, loo gaaro 1,000 subscribers iyo 4,000 saacadood, iyo sida loo sameeyo lacag (monetization).\n   - **Maxaad baranaysaa:** Algorithm-ka YouTube, doorashada mawduuca (niche), habka loo sameeyo thumbnails soo jiidasho leh, iyo SEO-ga muuqaallada.\n   - **Qiimaha:** 49 USD.\n\n2. **Google AdSense & Verification Mastery:**\n   - **Ujeedada:** Xalka dhibaatooyinka AdSense sida PIN-ka oo ku soo gaari waayay, caddeynta aqoonsiga (Identity Verification), iyo buuxinta foomka canshuuraha ee W-8BEN.\n   - **Maxaad baranaysaa:** Sida loo xalliyo khaladaadka AdSense, xiriirinta bangiga, iyo habka saxda ah ee loo maro xaqiijinta cinwaanka.\n   - **Qiimaha:** 35 USD.\n\n3. **Freelancing & Online Work Bootcamp:**\n   - **Ujeedada:** Barashada sida looga shaqeysto internetka adigoo isticmaalaya goobaha sida Upwork iyo Fiverr.\n   - **Maxaad baranaysaa:** Dhisidda profile xirfad leh, qorista \"proposals\" macaamiisha soo jiidanaya, iyo maareynta lacagaha aad kasbato.\n   - **Qiimaha:** 45 USD.\n\n**Sidee ayaad isku diiwaangelin kartaa?**\nDiiwaangelintu waa mid fudud:\n1. Waxaad doorataa koorsada aad rabto.\n2. Waxaad buuxisaa xogtaada (Magaca, WhatsApp-ka, iyo Email-ka).\n3. Waxaad lacagta ku bixineysaa habka gacanta (EVC Plus, ZAAD, Sahal, ama Bangi).\n4. Waxaad rasiidka u soo diraysaa maamulka si akoonkaaga loogu furo koorsada.\n\nMa jirtaa koorso aad rabto inaan faahfaahin dheeraad ah ka siiyo, mise waxaad u baahan tahay caawimaad xagga diiwaangelinta ah?",
+        "is_handoff_offer": false,
+        "suggested_course_id": "course-yt-01",
+        "id": "msg-1789660229703-vh7t",
+        "timestamp": "2026-09-17T15:50:29.703Z"
+      }
+    ],
+    "created_at": "2026-09-17T15:47:32.294Z",
+    "updated_at": "2026-09-17T15:50:29.703Z"
+  },
+  {
+    "id": "conv-1789659620154-wzeio",
+    "customer_id": "cust-1789659620153",
+    "customer_name": "Axmed Cali",
+    "customer_phone": "252615998877",
+    "customer_email": "",
+    "channel": "web",
+    "status": "needs_admin",
+    "language": "so",
+    "messages": [
+      {
+        "id": "msg-1789659620154",
+        "sender": "customer",
+        "content": "Kanaal YouTube ayaan leeyahay laakiin views-ka ayaa aad iigu yar, maxaan sameeyaa?",
+        "timestamp": "2026-09-17T15:40:20.154Z"
+      },
+      {
+        "sender": "assistant",
+        "content": "Waan ka xumahay, khadkeena caawiyaha ayaa hadda mashquul ah. Waxaan kuu gudbin karaa maamulka XirfadoNet si ay kuugu caawiyaan.",
+        "is_handoff_offer": true,
+        "id": "msg-1789659634037-khmt",
+        "timestamp": "2026-09-17T15:40:34.037Z"
+      }
+    ],
+    "created_at": "2026-09-17T15:40:20.154Z",
+    "updated_at": "2026-09-17T15:40:34.038Z"
+  }
+]

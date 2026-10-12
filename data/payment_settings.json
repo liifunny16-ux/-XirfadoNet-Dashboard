@@ -1,0 +1,52 @@
+{
+  "payment_number": "+252615941664",
+  "admin_whatsapp_number": "+252711870601",
+  "admin_contact_name": "Maamulka XirfadoNet",
+  "support_email": "support@xirfadonet.com",
+  "somalia_payment_number": "+252615941664",
+  "somalia_instructions": "Waad ku mahadsan tahay. Lacagta waxaad si toos ah ugu diri kartaa lambarka lacag-bixinta gacanta ee XirfadoNet: +252615941664. Markaad lacagta dirto, fadlan halkan kusoo dir caddeynta payment-ka ama u dir maamulka si ay kuu xaqiijiyaan.",
+  "international_instructions": "Waad mahadsan tahay. Maadaama aad Somalia ka baxsan tahay, fadlan la xiriir maamulka XirfadoNet si laguu siiyo habka lacag-bixinta kuu shaqaynaya.",
+  "somalia_methods": [
+    {
+      "id": "pay-evc",
+      "provider": "EVC Plus (Hormuud)",
+      "account_number": "+252615941664",
+      "account_name": "XirfadoNet Official",
+      "currency": "USD",
+      "instructions": "*712*615941664*LACAGTA# kadibna caddeynta ku soo dir website-ka ama maamulka WhatsApp-ka",
+      "type": "somalia"
+    },
+    {
+      "id": "pay-zaad",
+      "provider": "ZAAD Service (Telesom)",
+      "account_number": "+252615941664",
+      "account_name": "XirfadoNet Official",
+      "currency": "USD",
+      "instructions": "*880*615941664*LACAGTA# kadibna caddeynta ku soo dir website-ka ama maamulka",
+      "type": "somalia"
+    },
+    {
+      "id": "pay-sahal",
+      "provider": "Sahal Service (Golis)",
+      "account_number": "+252615941664",
+      "account_name": "XirfadoNet Official",
+      "currency": "USD",
+      "instructions": "*801*615941664*LACAGTA# kadibna caddeynta ku soo dir website-ka ama maamulka",
+      "type": "somalia"
+    }
+  ],
+  "international_methods": [
+    {
+      "id": "pay-international-contact",
+      "provider": "La Xiriir Maamulka (International Support)",
+      "account_number": "Contact Management on WhatsApp",
+      "account_name": "XirfadoNet Admin",
+      "currency": "USD",
+      "instructions": "La xiriir maamulka XirfadoNet WhatsApp si laguu siiyo habka lacag bixinta ee dalkaaga (PayPal, Remitly, Dahabshiil, WorldRemit, iwm).",
+      "type": "international"
+    }
+  ],
+  "verification_instructions": "Ogeysiis: Nidaamka lacag-bixintu waa mid gacanta ah (Manual). AI ma qabto lacag mana xaqiijiyo si toos ah. Markaad lacagta dirto, rasiidka u soo dir website-ka ama maamulka XirfadoNet si ay gacanta ugu xaqiijiyaan kuuna furaan koorsadaada.",
+  "support_phone": "+252711870601",
+  "support_whatsapp_display": "Maamulka XirfadoNet"
+}

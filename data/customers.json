@@ -1,0 +1,82 @@
+[
+  {
+    "customer_id": "cust-1789660052294",
+    "name": "Macaamil (Visitor)",
+    "phone": "",
+    "email": "",
+    "preferred_language": "so",
+    "conversation_history": [
+      "conv-1789660052294-9xrih"
+    ],
+    "created_at": "2026-09-17T15:47:32.294Z"
+  },
+  {
+    "customer_id": "cust-1789659620153",
+    "name": "Axmed Cali",
+    "phone": "252615998877",
+    "email": "",
+    "preferred_language": "so",
+    "conversation_history": [
+      "conv-1789659620154-wzeio"
+    ],
+    "created_at": "2026-09-17T15:40:20.153Z"
+  },
+  {
+    "customer_id": "cust-1789660768397-tq7ys",
+    "name": "Macaamil",
+    "phone": "",
+    "email": "",
+    "preferred_language": "so",
+    "conversation_history": [
+      "conv-1789660768397-s9dg"
+    ],
+    "created_at": "2026-09-17T15:59:28.397Z"
+  },
+  {
+    "customer_id": "cust-1789660824402-75m9r",
+    "name": "Macmiil Cusub",
+    "phone": "",
+    "email": "",
+    "preferred_language": "so",
+    "conversation_history": [
+      "conv-1789660824402-4mk4"
+    ],
+    "created_at": "2026-09-17T16:00:24.402Z"
+  },
+  {
+    "customer_id": "cust-1789661504042-l5z5p",
+    "name": "Macmiil Cusub",
+    "phone": "",
+    "email": "",
+    "preferred_language": "so",
+    "conversation_history": [
+      "conv-1789661504042-sy3v"
+    ],
+    "created_at": "2026-09-17T16:11:44.042Z"
+  },
+  {
+    "customer_id": "cust-1789661540948-4n7z3",
+    "name": "Macmiil Cusub",
+    "phone": "",
+    "email": "",
+    "preferred_language": "so",
+    "conversation_history": [
+      "conv-1789661540948-fhe2"
+    ],
+    "created_at": "2026-09-17T16:12:20.948Z"
+  },
+  {
+    "customer_id": "cust-1789729156498-h9urp",
+    "name": "Test Macaamil",
+    "phone": "",
+    "email": "",
+    "preferred_language": "so",
+    "status": "lead",
+    "conversation_history": [
+      "conv-1789729156499-uk9k"
+    ],
+    "created_at": "2026-09-18T10:59:16.498Z",
+    "updated_at": "2026-09-18T10:59:16.498Z",
+    "problem_category": "Google AdSense"
+  }
+]

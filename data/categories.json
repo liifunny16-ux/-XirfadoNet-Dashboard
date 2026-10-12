@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cat-yt",
+    "name": "YouTube & Monetization",
+    "slug": "youtube-monetization",
+    "description": "Baro dhisidda kanaal YouTube, Shorts viral ah, automation, iyo monetization casri ah.",
+    "icon": "Youtube",
+    "status": "published",
+    "created_at": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "cat-ai",
+    "name": "AI & Automation",
+    "slug": "ai-automation",
+    "description": "Adeegso aaladaha AI iyo automation-ka casriga ah sida 3D Cartoons iyo Clipster si aad dakhli uga hesho.",
+    "icon": "Cpu",
+    "status": "published",
+    "created_at": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "cat-video",
+    "name": "Video Editing",
+    "slug": "video-editing",
+    "description": "Xirfadaha video editing-ka mobile-ka iyo heer sare (CapCut, Alight Motion, Football Highlights & Cinematic Edits).",
+    "icon": "Film",
+    "status": "published",
+    "created_at": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "cat-ecommerce",
+    "name": "E-commerce",
+    "slug": "ecommerce",
+    "description": "Shopify dropshipping, dhisidda dukaamo online ah, iyo iibinta alaabada caalamiga ah.",
+    "icon": "ShoppingCart",
+    "status": "published",
+    "created_at": "2025-01-01T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "XirfadoNet AI Support & Course Assistant",
+  "description": "Production-ready AI customer support and course assistant for XirfadoNet with course database, knowledge base, human handoff, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
